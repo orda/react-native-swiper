@@ -51,6 +51,9 @@
     "url": "https://github.com/leecade/react-native-swiper/issues"
   },
   "homepage": "https://github.com/leecade/react-native-swiper#readme",
+  "peerDependencies": {
+    "@react-native-community/viewpager": "^1.1.7"
+  },
   "devDependencies": {
     "babel-eslint": "^8.0.1",
     "rimraf": "^2.5.4",
